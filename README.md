@@ -4,7 +4,7 @@
 
 ## [Check out my app on Heroku](<[https://whispering-sierra-51144.herokuapp.com/](https://whispering-sierra-51144.herokuapp.com/)>)
 
-![ScreenShot1](https://github.com/arod1207/HW-18-Budget-Tracker/blob/master/img/ScreenShot1.png)
+![ScreenShot1](https://github.com/arod1207/HW-18-Budget-Tracker/blob/master/public/img/budgetTracker.png)
 
 ![Top Language](https://img.shields.io/github/languages/top/arod1207/HW-18-Budget-Tracker) <br>![GitHub last commit](https://img.shields.io/github/last-commit/arod1207/HW-18-Budget-Tracker) <br>![Follow Me](https://img.shields.io/github/followers/arod1207?label=Follow%20Me&style=social)
 
