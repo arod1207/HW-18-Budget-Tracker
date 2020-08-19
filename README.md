@@ -1,8 +1,8 @@
 # Budget Tracker
 
 ## A fast and easy way to track your money. The user has access to their finances at anytime by having offline functionality. It can also be downloaded as a standalone application
-
-## [Check out my app on Heroku](<[https://whispering-sierra-51144.herokuapp.com/](https://whispering-sierra-51144.herokuapp.com/)>)
+ 
+## [Check out my app on Herkou](https://whispering-sierra-51144.herokuapp.com/)
 
 ![ScreenShot1](https://github.com/arod1207/HW-18-Budget-Tracker/blob/master/public/img/snapshot.png)
 
